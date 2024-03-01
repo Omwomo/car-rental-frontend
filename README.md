@@ -3,14 +3,14 @@
 
 <div align="center">
 
-  <h3><b>Full-Stack-Capstone-Frontend: Vehicle Reservation App</b></h3>
+  <h3><b>Car-Rental-Frontend: Vehicle Reservation App</b></h3>
 
 </div>
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Full-Stack-Capstone-Frontend](#-full-stack-capstone-frontend)
+- [📖 Car-Rental-Frontend](#-Car-Rental-Frontend)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,7 +28,7 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Full-Stack-Capstone-Frontend
+# 📖 Car-Rental-Frontend
 
 *The Full-Stack-Capstone-Frontend* is a web application designed to streamline the process of renting cars. Users can log in securely using their username and access various features through a navigation panel. The system allows users to browse available cars, make reservations, manage bookings, add new cars to the inventory, and delete them. The application is responsive, providing both mobile and desktop versions for a user-friendly experience.
 
@@ -39,9 +39,6 @@
 - ✅ Linters
 - ✅ React
 
-### Kanban Board
-Link to Kanban Board for this Project: https://github.com/users/bhushan354/projects/6 <br>
-Link to kanban board issue: https://github.com/bhushan354/Full-Stack-Capstone-Frontend/issues/12
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -70,7 +67,7 @@ Link to kanban board issue: https://github.com/bhushan354/Full-Stack-Capstone-Fr
 
 ## Back-End-Link
 
-The back-end repo is available [here](https://github.com/bhushan354/Full-Stack-Capstone-Backend)
+The back-end repo is available [here](https://github.com/omwomo/car-rental-backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +76,7 @@ The back-end repo is available [here](https://github.com/bhushan354/Full-Stack-C
 
 *To get a local copy up and running, follow these steps.*
 
-1. Download or clone this [repostory](git@github.com:bhushan354/Full-Stack-Capstone-Frontend.git).
+1. Download or clone this [repostory](git@github.com:omwomo/car-rental-frontend.git).
 2. Provide a modern web browser.
 
 ### Prerequisites
@@ -97,13 +94,13 @@ The back-end repo is available [here](https://github.com/bhushan354/Full-Stack-C
 
 ### Setup
 
-- Clone this [repository](git@github.com:bhushan354/Full-Stack-Capstone-Frontend.git) to your desired folder:
+- Clone this [repository](git@github.com:omwomo/car-rental-frontend.git) to your desired folder:
 
 - Run this command in your command line interface:
 
 ```sh
   cd [YOUR FOLDER]
-  git clone git@github.com:bhushan354/Full-Stack-Capstone-Frontend.git
+  git clone git@github.com:omwomo/car-rental-frontend.git
   cd Full-Stack-Capstone-Frontend
 ```
 
@@ -164,21 +161,21 @@ The back-end repo is available [here](https://github.com/bhushan354/Full-Stack-C
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/bhushan354/Full-Stack-Capstone-Frontend/issues).
+Feel free to check the [issues page](https://github.com/omwomo/car-rental-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a start ⭐️ for the [repository](git@github.com:bhushan354Full-Stack-Capstone-Frontend.git);
+If you like this project, kindly drop a start ⭐️ for the [repository](git@github.com:omwomo/car-rental-frontend.git);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to express my heartfelt gratitude to *Microvere* for the invaluable learning experience they have provided. Also we would like to appreciate each for a great team work we demonstrated during the project.
+I would like to express my heartfelt gratitude to my teammates for hard work and great collaboration efforts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
